@@ -1,5 +1,4 @@
 #include <iostream>
-// anananananananyayayayayayayayayay
 using namespace std;
 
 const int SENTINEL_VALUE = -1;
