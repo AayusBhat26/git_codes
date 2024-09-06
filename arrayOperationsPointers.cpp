@@ -22,7 +22,7 @@ bool isArrayEmpty(int size) {
 
 bool isSortedAscending(int* arr, int size){
     if(isArrayEmpty(size)){
-        cout<<"Array is empty";
+        cout<<"Array is empty.";
         return false;
     }
     else{
